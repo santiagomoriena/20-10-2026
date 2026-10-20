@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+.Fondo {
+    background-color: brown;
+}
+h2 {
+    background-color: darkblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    background-color: rgb(rgb(200, 20, 20) green blue / alpha);
+    width: 400px;
+    height: 50px;  
+    display: inline-block;
+}
+button {
+    display: block;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.botongris {
+background-color: grey;
+}
+
+#perro {
+    width: 500;
+}
+
+#Texto2 {
+    width: 25%;
+    height: 40vh;
+}
+#Chancho {
+    background-image: url(./Chancho.jpg);
+}
+ul{
+    background-color: darkgreen;
+    width: 50%;
+}
+li{
+    background-color: gold;
+}
